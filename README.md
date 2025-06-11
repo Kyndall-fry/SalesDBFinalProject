@@ -1,4 +1,4 @@
-# SalesDBFinalProject
+# Sales Dashboard Final Project
 
 This project is a comprehensive Tableau dashboard analysis built to visualize and explore key business metrics from a fictional or real sales database. The workbook contains a wide array of worksheets and dashboards, each focusing on different perspectives of the sales data such as delivery time, sales channels, customer demographics, and product profitability.
 
