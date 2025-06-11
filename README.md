@@ -25,9 +25,12 @@ The Tableau workbook includes:
 
 ## 📁 Data Sources
 
-The workbook connects to multiple data sources labeled primarily as:
-- `federated.01u9j560re7b9j1ae3bzw0ug2bua` (likely a federated database or joined data source)
-- `Parameters` (for user-controlled inputs like filters or targets)
+## 📁 Data Source
+
+This workbook uses a flat file CSV data source:
+
+- `regionalsalescsv.csv`: Contains regional sales data including order price, delivery time, sales channels, customer demographics, and store locations. This dataset powers all visualizations and dashboards in the workbook.
+
 
 ## 🚀 Getting Started
 
